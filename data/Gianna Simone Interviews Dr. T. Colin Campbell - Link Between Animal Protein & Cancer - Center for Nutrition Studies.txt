@@ -1,0 +1,42 @@
+Gianna Simone Interviews Dr. T. Colin Campbell - Link Between Animal Protein & Cancer - Center for Nutrition Studies [<p>Actress Gianna Simone produced this series of interviews with the top plant-based doctors of our time with the intention of providing educational resources on the benefits of a <a href="https://nutritionstudies.org/whole-food-plant-based-diet-guide/">whole food, plant-based diet</a>. She wanted to bring this extremely powerful message to people in a fun loving way, and wanted such information to be easily understood and enjoyed. </p>, <p style="height: 10px;">
+<div class="my-3 embed-responsive embed-responsive-16by9">
+<iframe allow="autoplay; encrypted-media" allowfullscreen="" class="embed-responsive-item" frameborder="0" height="315" src="https://www.youtube.com/embed/vffpTQ8noMM" width="560"></iframe>
+</div>
+<div class="shortcode-ad shortcode-certificate-text-ad card rounded bg-transparent border border-info">
+<a class="text-info" data-ga-event-action="pbn-certificate-click" data-ga-event-category="pbn-native-ad" data-ga-event-label="shortcode-pbn-certificate-text-ad-1" data-ga-event-langs="en" data-ga-event-trigger="click" href="https://nutritionstudies.org/courses/plant-based-nutrition/" target="_blank">
+<div class="card-body p-3">
+<div class="row no-gutters justify-content-center">
+<div class="col-auto"><i aria-hidden="true" class="m-2 m-sm-2 mr-sm-3 fa fa-2x fa-clock-o"></i></div>
+<div class="col-sm align-self-center"><p class="m-0 text-center text-sm-left">Course dates are approaching fast! Sign up today for the <strong>Plant-Based Nutrition Certificate</strong>.</p></div>
+</div>
+</div>
+</a>
+</div>
+<div class="content-related-articles">
+<div class="page-header">
+<h3> You Might Also Like </h3>
+</div>
+<div class="cns-slider" id="cns-related-article-slider">
+<div class="slick-related-article-card card">
+<a href="https://nutritionstudies.org/interview-with-t-colin-campbell-for-7th-grade-history-project/"><img alt="Interview with T. Colin Campbell for 7th Grade History Project" class="lazyload mx-auto img-fluid" data-src="https://cdn.nutritionstudies.org/wp-content/uploads/2017/05/Interview-With-T.-Colin-Campbell-for-7th-Grade-History-Project-480x250.jpg" src="https://cdn.nutritionstudies.org/wp-content/themes/cns-sage-leaf/dist/images/placeholder-white-480-250_00801e8f.png"/></a>
+<div class="card-body">
+<p class="slick-related-article-card-title" title="Interview with Dr. T. Colin Campbell for 7th Grade History Project"><a href="https://nutritionstudies.org/interview-with-t-colin-campbell-for-7th-grade-history-project/">Interview with Dr. T. Colin Campbell for 7th Grade...</a></p>
+</div>
+</div>
+<div class="slick-related-article-card card">
+<a href="https://nutritionstudies.org/dr-t-colin-campbell-interviews-dr-john-mcdougall/"><img alt="r. T. Colin Campbell interviews Dr. John McDougall" class="lazyload mx-auto img-fluid" data-src="https://cdn.nutritionstudies.org/wp-content/uploads/2016/10/Dr-T-Colin-Campbell-interviews-Dr-John-McDougall-480x250.jpg" src="https://cdn.nutritionstudies.org/wp-content/themes/cns-sage-leaf/dist/images/placeholder-white-480-250_00801e8f.png"/></a>
+<div class="card-body">
+<p class="slick-related-article-card-title" title="Dr. T. Colin Campbell Interviews Dr. John McDougall"><a href="https://nutritionstudies.org/dr-t-colin-campbell-interviews-dr-john-mcdougall/">Dr. T. Colin Campbell Interviews Dr. John McDougall</a></p>
+</div>
+</div>
+<div class="slick-related-article-card card">
+<a href="https://nutritionstudies.org/the-plant-paradox-by-steven-grundy-md-commentary/"><img alt="“The Plant Paradox” by Steven Grundy MD-- A Commentary" class="lazyload mx-auto img-fluid" data-src="https://cdn.nutritionstudies.org/wp-content/uploads/2017/08/the-plant-paradox-480x250.jpg" src="https://cdn.nutritionstudies.org/wp-content/themes/cns-sage-leaf/dist/images/placeholder-white-480-250_00801e8f.png"/></a>
+<div class="card-body">
+<p class="slick-related-article-card-title" title="‘The Plant Paradox’ by Steven Gundry MD– A Commentary"><a href="https://nutritionstudies.org/the-plant-paradox-by-steven-grundy-md-commentary/">‘The Plant Paradox’ by Steven Gundry...</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="content-tags"><a href="https://nutritionstudies.org/topics/">Tags: </a><a href="https://nutritionstudies.org/t/cancer/" rel="tag">Cancer</a><a href="https://nutritionstudies.org/t/interview/" rel="tag">Interview</a><a href="https://nutritionstudies.org/t/plant-based-diet/" rel="tag">Plant-Based Diet</a><a href="https://nutritionstudies.org/t/the-china-study/" rel="tag">The China Study</a></div>
+<p class="d-none d-print-block mt-3 mb-0"><small> Copyright 2022 Center for Nutrition Studies. All rights reserved. </small></p>
+</p>]
